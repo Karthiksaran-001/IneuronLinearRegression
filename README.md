@@ -81,8 +81,8 @@ with code pipeline
 
   
 ## 🔗 Links
-(https://github.com/Karthiksaran-001)]
-(https://www.linkedin.com/in/karthikeyan-s-001/)](https://www.linkedin.com/in/karthikeyan-s-001/)
+[Github](https://github.com/Karthiksaran-001)
+[linkedin](https://www.linkedin.com/in/karthikeyan-s-001/)
 
 
 ## WebApp Link:
