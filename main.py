@@ -37,7 +37,7 @@ def index():
 @app.route('/github' , methods =['GET'])
 @cross_origin()
 def github():
-    return redirect('https://github.com/Karthiksaran-001/Ineuron/tree/main/Assignment/Linear%20Regression')
+    return redirect('https://github.com/Karthiksaran-001/IneuronLinearRegression')
 
 @app.route('/visual' , methods =['GET'])
 @cross_origin()
